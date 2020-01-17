@@ -8,12 +8,12 @@ The methodology assignments are small assignments (doable within the
 scope of lab hours) that introduce you to a tool or concept through a
 simple `hello world` example.
 
-In this assignment will you will write code to download and process
+In this assignment you will write code to download and process
 tables from the web using methods discussed in lecture. In particular,
 you are going to keep separate:
-1. The metadata that specificies which instances of the data to ingest
+1. metadata that specificies which instances of the data to ingest
    (configuration), and
-2. The code that actually retrieves, parses, and saves the data.
+2. code that actually retrieves, parses, and saves the data.
 
 You will use `pd.read_html` to download [NFL football team
 schedules](https://www.pro-football-reference.com/) from various
